@@ -12,7 +12,7 @@ async function main() {
         await prisma.product.createMany({
             data: products
         })
-        console.log('Seed ejecutado correctamente');
+        console.log('Seed ejecutado correctamente');                                                            
         
     } catch (error) {
         console.log(error);

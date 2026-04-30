@@ -23,7 +23,7 @@ const config: runtime.GetPrismaClientConfig = {
       "value": "prisma-client"
     },
     "output": {
-      "value": "C:\\Users\\Jean\\OneDrive\\Escritorio\\quiosco-next\\src\\generated\\prisma",
+      "value": "C:\\Users\\jeanj\\OneDrive\\Escritorio\\quiosco-next\\src\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -37,7 +37,7 @@ const config: runtime.GetPrismaClientConfig = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "C:\\Users\\Jean\\OneDrive\\Escritorio\\quiosco-next\\prisma\\schema.prisma",
+    "sourceFilePath": "C:\\Users\\jeanj\\OneDrive\\Escritorio\\quiosco-next\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativePath": "../../../prisma",
