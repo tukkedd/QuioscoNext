@@ -66,7 +66,7 @@ export const useStore = create<Store>((set, get) => ({
         set(() => ({
             order: order.filter(item => item.quantity > 0)
         }))
-    },
+    },      
     removeItem: (id) => {
         set((state) => ({
             order: state.order.filter(item => item.id !== id)
